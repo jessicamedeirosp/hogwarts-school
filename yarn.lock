@@ -2019,7 +2019,7 @@
     core-js "^3.0.1"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-docs@6.1.15":
+"@storybook/addon-docs@6.1.15", "@storybook/addon-docs@^6.1.15":
   version "6.1.15"
   resolved "https://registry.yarnpkg.com/@storybook/addon-docs/-/addon-docs-6.1.15.tgz#b2c08d0e9d058dc01a10ddd39266630551697ee5"
   integrity sha512-SYXqdTVxv2M0XzmB9ybgYrbqVTAu4FEj+0JL3EJUIS7usWlhZmZIBgU4DFBOd5Aojaq1SGd0QJksMS3L1ym/Bg==
@@ -2112,7 +2112,7 @@
     "@storybook/components" "6.1.15"
     core-js "^3.0.1"
 
-"@storybook/addon-viewport@6.1.15":
+"@storybook/addon-viewport@6.1.15", "@storybook/addon-viewport@^6.1.15":
   version "6.1.15"
   resolved "https://registry.yarnpkg.com/@storybook/addon-viewport/-/addon-viewport-6.1.15.tgz#fc7913713c8341af136a0ee28e67b422952c428f"
   integrity sha512-lHCGwFdfC8XTRbmw6XmLPO1DxyjJJga3p1sITULSUt8A9UVh8M6mkO7e3w5z34IfDWOaxSAEnx5DHM33ZoTt5Q==
